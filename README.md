@@ -1,6 +1,6 @@
 # Social Buzz
 
-**## Table of contents**
+## Table of contents
 
 - [Project Recap](#project-recap)
 - [Client Request](#client-request)
