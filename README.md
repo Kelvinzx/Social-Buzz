@@ -36,6 +36,8 @@ data.
 
 
 ### Insights
+
+
 ![Social Buzz insight 1](https://github.com/Aliyu-Kuburat/Social-Buzz/assets/156312358/60a2adbe-7eb6-4711-a1a1-c8b024d8cecb)
 
 ![Social Buzz insight 2](https://github.com/Aliyu-Kuburat/Social-Buzz/assets/156312358/fbbf638b-2316-42ad-bda3-c0331450543f)
@@ -96,18 +98,18 @@ Use algorithms to recommend posts from other categories based on users interest 
 Withing popular animal content, insert snippets or teasers from other categories. For example, an animal video might have a sidebar with links to relate science or health articles.
 
 -**Engaging Themes and Campaigns :**
---**Themes Weeks**: Host themed weeks that cover multiple categories, like “Eco-Friendly Week” featuring content on animals, environmental science, and sustainable food practices.
+**Themes Weeks**: Host themed weeks that cover multiple categories, like “Eco-Friendly Week” featuring content on animals, environmental science, and sustainable food practices.
 
--- **Seasonal Campaigns:** Align content with seasons or holidays, like "Summer Safety Tips for Pets" including health and science content
+ **Seasonal Campaigns:** Align content with seasons or holidays, like "Summer Safety Tips for Pets" including health and science content
 
--- **Seasonal Campaigns:** Align content with seasons or holidays, like "Summer Safety Tips for Pets" including health and science content
+ **Seasonal Campaigns:** Align content with seasons or holidays, like "Summer Safety Tips for Pets" including health and science content
 
 - **Educational Series**
 -- **Multi-Category Articles:** Produce educational content that naturally spans several categories, like "The Science Behind Pet Nutrition," combining animal, science, public speaking, and health content.
 
 - **Enhanced Discovery Tools**
 
--- **Improved Navigation:** Design the website or app to highlight trending topics and new content from all categories, making it easy for users to discover different types of content.
+ **Improved Navigation:** Design the website or app to highlight trending topics and new content from all categories, making it easy for users to discover different types of content.
 Discovery Section: Add a dedicated "Discover More" section showcasing diverse content.
 
 - **Feedback and Analytics :**
