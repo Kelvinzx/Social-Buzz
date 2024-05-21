@@ -1,6 +1,6 @@
 # Social Buzz
 
-## Table of contents
+**## Table of contents**
 
 - [Project Recap](#project-recap)
 - [Client Request](#client-request)
@@ -11,16 +11,17 @@
 - [Data Analysis](#data-analysis)
 - [Results](#results)
 - [Recommendations](#recommendations)
-- [Limitations](#limitations)
+- [Summary](#summary)
 
 
-### Project Recap
+
+### **Project Recap**
 Social Buzz, a rapidly growing social media and content creation company with 500 million monthly              
 active users, seeks: 
   - An audit of their big data practices
   - IPO guidance,
 
-### Client Request
+### **Client Request**
 
 Here is the client's request: 
 
@@ -35,14 +36,20 @@ understanding how the world's biggest companies manage the challenges of big
 data.
 
 
-### Insights
+### **Insights**
+![image](https://github.com/Kelvinzx/Social-Buzz/assets/147884934/14f23ca5-5d42-42f7-8d8e-f00a00ea3e76)
 
+![image](https://github.com/Kelvinzx/Social-Buzz/assets/147884934/06320a9b-df9a-4736-8610-aeed970911b4)
 
 ![Social Buzz insight 1](https://github.com/Aliyu-Kuburat/Social-Buzz/assets/156312358/60a2adbe-7eb6-4711-a1a1-c8b024d8cecb)
 
-![Social Buzz insight 2](https://github.com/Aliyu-Kuburat/Social-Buzz/assets/156312358/fbbf638b-2316-42ad-bda3-c0331450543f)
+![image](https://github.com/Kelvinzx/Social-Buzz/assets/147884934/b053c663-cb61-4297-b225-66db77bca7d2)
 
-### Data Sources
+![image](https://github.com/Kelvinzx/Social-Buzz/assets/147884934/ad6b7721-4135-4242-b8dc-627b56cc4e42)
+
+
+
+### **Data Sources**
 
 Sales data: The primary dataset used for this analysis is a "content and reaction csv" file, containg detailed information about each viewed contents and their category
 
@@ -57,12 +64,12 @@ So, to make sure you are using the right data to answer the business questions y
  - Data cleaning
  - Data modelling
 
-## Tools
+## **Tools**
 
 - Excel (Data cleaning) 
-- Power Bi (Reporting)
+- Excel (Reporting)
 
-### Data Transformation
+### **Data Transformation**
 I did the following Data cleaning and transformation: 
  - The Define Objectives and Questions
  - Gather the data needed for the analysis
@@ -76,17 +83,17 @@ I did the following Data cleaning and transformation:
 - Replace duplicate values
 - Determine the answer to the client’s business question
 
-### Data Analysis
-I mostly used Excel and Power bi for this project. 
+### **Data Analysis**
+ Animal and Science are the two most popular categories of content, showing that people enjoy "real life" and "factual" content the most
 
-### Results
+### **Results**
  - Top 5 categories are Animal, Science, Healthy eating, Technology and food
  - 16 Reaction Category
  -  4 Content type
  -  January has the highest Gif, audio and photo reactions while May has the highest video
  - May has the highest viewed contents in the year when all 4 contents are considered.
  
-### Recommendations
+### **Recommendations**
 
 - **Content Integration:**
 Create posts that naturally combine popular animal content with other categories. For example,, an article about ”How Technology is Enhancing Wildlife Conservation” integrates both animal and technology content
@@ -118,9 +125,9 @@ User Insights: Regularly gather and analyze user feedback to understand their pr
 
 
 
+### Summary
 
-### Limitations
+![image](https://github.com/Kelvinzx/Social-Buzz/assets/147884934/3421192f-c906-43c9-811a-161c80615b02)
 
 
 
-### Refrences 
